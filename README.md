@@ -6,4 +6,4 @@
 ### Dark Mode
 <img width="677" alt="Screen Shot 2022-06-29 at 1 12 42 AM" src="https://user-images.githubusercontent.com/77747704/176356810-6d3c6340-d614-4af4-8955-162c3f2137b7.png">
 
-[Download](https://github.com/SoloUnity/alfred-macOS-spotlight-theme/files/9007437/alfred.macOS.Spotlight.theme.zip)
+[Download here](https://github.com/SoloUnity/alfred-macOS-spotlight-theme/releases/download/v1/alfred.macOS.Spotlight.theme.zip)
