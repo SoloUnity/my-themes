@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System",
+        "color" : "#00000065"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#00000067",
+        "font" : "System",
+        "color" : "#00000065"
+      },
+      "backgroundSelected" : "#006BDEFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 0,
+      "paddingVertical" : 9,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#00000030",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#020202E5",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "background" : "#F5FFFE00",
+      "roundness" : 0,
+      "paddingVertical" : 12
+    },
+    "window" : {
+      "color" : "#FDFCFFCC",
+      "paddingHorizontal" : 0,
+      "width" : 630,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 14,
+      "paddingVertical" : 0
+    },
+    "credit" : "SoloUnity",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#00000019",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#02020232",
+      "thickness" : 2
+    },
+    "name" : "macOS Spotlight Light"
+  }
+}
