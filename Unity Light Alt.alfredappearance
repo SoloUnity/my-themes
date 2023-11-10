@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000B2",
+        "font" : "System",
+        "color" : "#42404172"
+      },
+      "shortcut" : {
+        "size" : 17,
+        "colorSelected" : "#000000B2",
+        "font" : "System",
+        "color" : "#74706AFF"
+      },
+      "backgroundSelected" : "#0000001E",
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#0091FFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 14,
+      "roundness" : 9,
+      "paddingVertical" : 6,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#0000001E",
+      "paddingHorizontal" : 13,
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#0391FFFF",
+        "font" : "System Bold",
+        "color" : "#000000F2"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#EAEAEACC",
+      "paddingHorizontal" : 6,
+      "width" : 747,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 14,
+      "paddingVertical" : 8
+    },
+    "credit" : "SoloUnity",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#73706BFF",
+      "thickness" : 0
+    },
+    "name" : "Unity Light Alt"
+  }
+}
