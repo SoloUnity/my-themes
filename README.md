@@ -1,4 +1,4 @@
-# alfred-macOS-spotlight-theme
+# My Alfred Themes
 
 ## Unity theme
 ### Light Mode
