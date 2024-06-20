@@ -20,20 +20,13 @@
   
   ## macOS 
   ### Automatic Light/Dark Mode
-  ![light](https://github.com/SoloUnity/my-themes/assets/77747704/c233c39e-01ce-4ebd-bfce-b2489c59d594)
-  ![dark](https://github.com/SoloUnity/my-themes/assets/77747704/e3204298-afad-4397-8557-fbbab6ce780b)
 
   **Requires the following extensions and icon themes**
   
   - **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): File and folder icon theme replacement.**
-  - **[Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension): Advanced VSCode user interface customizations. Make sure to enable it via the command palette `Enable Apc extension`.**
+  - **[Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension): Advanced VSCode user interface customizations. Make sure to enable it via the command palette with `Enable Apc extension`.**
+    
+  ![light](https://github.com/SoloUnity/my-themes/assets/77747704/c233c39e-01ce-4ebd-bfce-b2489c59d594)
+  ![dark](https://github.com/SoloUnity/my-themes/assets/77747704/e3204298-afad-4397-8557-fbbab6ce780b)
 
 </details>
-
-Name: 
-Id: drcika.apc-extension
-Description: . Very experimental.
-Version: 0.3.9
-Publisher: drcika
-VS Marketplace Link: 
-
