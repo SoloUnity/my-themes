@@ -16,7 +16,7 @@
   <img width="677" alt="Screen Shot 2022-06-29 at 1 12 42 AM" src="https://user-images.githubusercontent.com/77747704/176356810-6d3c6340-d614-4af4-8955-162c3f2137b7.png">
 </details>
 <details>
-  <summary><h1>My VSCode Theme</h1></summary>
+  <summary><h1>My VSCode Themes</h1></summary>
   
   ## macOS 
   ### Automatic Light/Dark Mode

@@ -1,0 +1,62 @@
+{
+  "window.titleBarStyle": "native",
+  "workbench.colorCustomizations": {
+    "focusBorder": "#ff000000",
+    "sideBar.background": "#00000000",
+    "sideBarSectionHeader.background": "#00000000",
+    "activityBar.background": "#00000000",
+    "activityBar.foreground": "#007AFF",
+    "activityBar.activeBorder": "#00000000",
+    "activityBarBadge.background": "#F54142",
+    "statusBar.background": "#00000000",
+    "list.hoverBackground": "#00000000",
+    "list.activeSelectionBackground": "#007AFF",
+    "list.activeSelectionForeground": "#FFFFFF",
+    "tab.activeBorderTop": "#00000000",
+    "tab.activeForeground": "#007AFF",
+    "quickInputList.focusForeground": "#FFFFFF",
+    "list.activeSelectionIconForeground": "#FFFFFF",
+    "button.background": "#007AFF"
+  },
+  "apc.header": {
+    "height": 37
+  },
+  "apc.sidebar.titlebar": {
+    "height": 37
+  },
+  "apc.activityBar": {
+    "position": "top",
+    "size": 37,
+    "itemSize": 30,
+    "itemMargin": 0
+  },
+  "apc.electron": {
+    "opacity": 1.0,
+    "transparent": true,
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "backgroundMaterial": "auto",
+    "frame": false,
+    "titleBarStyle": "hiddenInset",
+    "vibrancy": "sidebar",
+    "visualEffectState": "followWindow"
+  },
+  "apc.stylesheet": {
+    // Don't indent the sidebar title.
+    ".custom-sidebar-titlebar .sidebar .composite.title": "padding-left: 0;",
+    // Don't indent the statusbar items.
+    ".monaco-workbench .part.statusbar>.items-container>.statusbar-item.left.first-visible-item": "padding-left: 0;",
+    // Show the host button, and make it as wide as the .activitybar.
+    ".statusbar #status\\.host": "display: block !important; width: calc(var(--activity-bar-action-size) - 1px); background: [#555](https://github.com/lehni/vscode-titlebar-less-macos/issues/555) !important;",
+    ".statusbar #status\\.host .codicon": "margin: 0 auto;",
+    ".activitybar.left .content": "-webkit-app-region: none !important"
+  },
+  "window.customTitleBarVisibility": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredDarkColorTheme": "Default Dark Modern",
+  "workbench.preferredLightColorTheme": "Default Light Modern",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.iconClickBehavior": "focus",
+  "material-icon-theme.folders.color": "#0DA4EA",
+  "window.autoDetectColorScheme": true,
+  "editor.minimap.renderCharacters": false,
+}
